@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Db() {
-  return <div>ㅁㅇㄻㄹㅇDb</div>;
+  return <div>ㅁㅇㄻDb수정했습니다ㄹㅇDb</div>;
 }
 
 export default Db;
