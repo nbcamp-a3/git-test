@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Db() {
-  return <div>Db</div>;
+  return <div>ㅁㅇㄻㄹㅇDb</div>;
 }
 
 export default Db;
